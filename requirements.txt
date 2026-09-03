@@ -6,7 +6,4 @@ scikit-learn
 flask
 gunicorn
 dill
-catboost
-xgboost
 ipykernel
-#-e .
