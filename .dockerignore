@@ -1,8 +1,0 @@
-venv/
-notebook/
-logs/
-__pycache__/
-*.pyc
-*.pyo
-.git/
-*.ipynb
