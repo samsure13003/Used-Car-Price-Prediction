@@ -7,3 +7,5 @@ flask
 gunicorn
 dill
 ipykernel
+catboost
+xgboost
